@@ -51,7 +51,7 @@ app.get("/Contact-Us",(req,res)=>{
   });
 })
 
-app.get("/compose",(req,res)=>{
+app.get("/Compose",(req,res)=>{
 
   res.render("compose");
 })
